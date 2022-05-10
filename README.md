@@ -13,14 +13,11 @@ composer install
 remove the update vender folder 
 ```
 rm -rf vendor/
-111
-
-
+```
 also remove the composer.lock file to install the composer again.
 ```
 rm composer.lock
 ```
-
 now run install command
 ```
 composer install
